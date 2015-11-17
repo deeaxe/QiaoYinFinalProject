@@ -25,7 +25,7 @@ require(
         var pHeight = paper.canvas.offsetHeight;
         var bgRect = paper.rect(0,0,pWidth,pHeight);
 		bgRect.attr({
-            "fill": "url(resources/bluesky.jpg)", 
+            "fill": "url(resources/sky.JPG)", 
             stroke: 'black',
             "stroke-width": 5,
             "stroke-opacity": .2
