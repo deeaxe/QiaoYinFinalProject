@@ -1,0 +1,47 @@
+html, body
+{
+	background-color: white;
+	color: black;
+	height: 98%;
+	width: 98%;
+}
+
+
+h3 {color:white;
+	height: 5%;
+	text-align: center;
+	font-family: Impact;
+	font-size: 30px;
+}
+
+p  {color: black;
+	text-align: center;
+	font-family: 'RetroComputer';
+	src: local("Retro Computer"), url(resources/RetroComputer.ttf) format ("truetype");
+	font-size: 15px;
+
+}
+
+#hey {
+	color: black;
+	text-align: center;
+	font-family: 'RetroComputer';
+	src: local("Retro Computer"), url(resources/RetroComputer.ttf) format ("truetype");
+	font-size: 15px;
+}
+
+input[type="radio"] {
+	color:white;
+}
+
+#mySVGCanvas {
+	
+	width: 600px;
+	height: 400px;
+	margin: auto;
+	background-color: white;
+}
+
+
+
+
